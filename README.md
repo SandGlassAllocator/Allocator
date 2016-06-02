@@ -1,5 +1,5 @@
 # Allocator
-Allocator of Sand Glass Project. 
+Allocator of Sand Glass Project.
 
 ## Objective
 
@@ -10,3 +10,9 @@ and interface of healthcare services. This is likely a API application for alloc
 
 We apply MQTT as the protocol for healthcare devices.
 
+## Technical Spec
+
+### Depends on
+- Go Language 1.6
+- MySQL
+- ...
