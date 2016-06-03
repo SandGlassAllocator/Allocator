@@ -16,3 +16,5 @@ We apply MQTT as the protocol for healthcare devices.
 - Go Language 1.6
 - MySQL
 - ...
+
+### Features
