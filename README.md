@@ -18,3 +18,7 @@ We apply MQTT as the protocol for healthcare devices.
 - ...
 
 ### Features
+- GRUD of healthcare source data
+- Grant, Deny, Retain and Reuse the permissions of operator
+- Allocate the source data
+- Manage the dedicated data
